@@ -5,4 +5,4 @@ Git is now using
 
 we now push this content to the github
 
-Creating a new banch is quick & simple
+Creating a new banch is quick and simple
