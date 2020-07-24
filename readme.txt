@@ -7,4 +7,5 @@ we now push this content to the github
 
 Creating a new banch is quick and simple
 add merge
->>>>>>> dev
+
+fix bug 101
