@@ -4,3 +4,5 @@ Git has a mutable index called stage
 Git is now using
 
 we now push this content to the github
+
+Creating a new banch is quick
